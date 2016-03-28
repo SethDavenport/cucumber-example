@@ -34,3 +34,7 @@ dist
 *~
 \#*#
 .#*
+
+# Wdio outputs
+errorShots
+allure-results
